@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template_list>
+	<template>
+		<name><![CDATA[Roku Scene Graph - Simple]]></name>
+		<source_path><![CDATA[Roku Scene Graph]]></source_path>
+	</template>
+	<template>
+		<name><![CDATA[Roku Scene Graph - Grid Screen]]></name>
+		<source_path><![CDATA[Grid Screen]]></source_path>
+	</template>
+	<template>
+		<name><![CDATA[Roku Scene Graph  - Sliding Panels]]></name>
+		<source_path><![CDATA[Sliding Panels]]></source_path>
+	</template>
+	<template>
+		<name><![CDATA[None]]></name>
+		<source_path><![CDATA[]]></source_path>
+	</template>
+</template_list>
